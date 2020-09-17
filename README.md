@@ -1,2 +1,3 @@
-# calculator-js
- implementation of a simple calculator for studies in Javascript and Bootstrap
+# Calculator JS
+
+ implementation of a simple calculator for studies using Javascript and Bootstrap
